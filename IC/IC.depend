@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1514136974 source:c:\users\thiago\documents\github\benfordlawforfrauddetection\ic\main.cpp
+1536458278 source:c:\users\thiago\documents\github\benfordlawforfrauddetection\ic\main.cpp
 	<iostream>
+	<math.h>
 
